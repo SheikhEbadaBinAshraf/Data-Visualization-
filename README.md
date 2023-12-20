@@ -1,4 +1,4 @@
-# Visualyzation Of Women's National Basketball Association(WNBA)  
+# Visualization Of Women's National Basketball Association(WNBA)  
   
 
 ![](https://github.com/SheikhEbadaBinAshraf/Data-Visualyzation-/blob/main/VISUALIZATION.png?raw=true)  
